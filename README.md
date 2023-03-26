@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, I'm Max Bueckert 👋
+
+I'm currently a Bachelor of Computer Science student at the University of British Columbia. My technical skills include Python, Java, JavaScript, HTML, CSS, Flask, Fullstack Web Development, REST APIs, Git/GitHub, JUnit, TDD, and Data Structures & Algorithms.
 
 <!--
 **maxbueckert/maxbueckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
