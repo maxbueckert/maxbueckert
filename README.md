@@ -1,8 +1,8 @@
-## Hi, I'm Max Bueckert 👋
+##Hi, I'm Max Bueckert 👋
 
-I'm currently a Bachelor of Computer Science student at the University of British Columbia. My technical skills include Python, Java, JavaScript, HTML, CSS, Flask, Fullstack Web Development, REST APIs, Git/GitHub, JUnit, TDD, and Data Structures & Algorithms.
+I'm currently pursuing a Bachelor of Computer Science at the University of British Columbia. My experience and interests are diverse, ranging from Full Stack Web and Mobile Development to developing advanced image processing algorithms in C++.
 
-[Connect with me on LinkedIn!](https://www.linkedin.com/in/max-bueckert-8712b4254/)
+For web and mobile projects, my go-to stack includes React and React Native for the front end. For comprehensive projects, I leverage AWS Amplify for robust backend solutions. Alternatively, for rapid prototyping, such as in hackathons, I prefer setting up a lightweight backend with a Flask Python server.
 
 <!--
 **maxbueckert/maxbueckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
