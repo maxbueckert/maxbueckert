@@ -1,4 +1,4 @@
-##Hi, I'm Max Bueckert 👋
+## Hi, I'm Max Bueckert 👋
 
 I'm currently pursuing a Bachelor of Computer Science at the University of British Columbia. My experience and interests are diverse, ranging from Full Stack Web and Mobile Development to developing advanced image processing algorithms in C++.
 
